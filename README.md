@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, i'm Enzo Rangel, as well known as Kaguya-Dev!
 
 - 🔭 I’m currently working on: AI projects and community apps
 - 🌱 I’m currently learning: Java Springboot, Node.js, c# for Game Dev
