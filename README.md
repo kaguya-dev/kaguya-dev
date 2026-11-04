@@ -30,6 +30,7 @@ CNPq undergraduate research fellow at INES.IA (UFBA), working on LLM-based agent
 | [moonwalk-obr](https://github.com/kaguya-dev/moonwalk-obr) | Robot for the Brazilian Robotics Olympiad | Robô da Olimpíada Brasileira de Robótica |
 | [FRC-2024-HYDRA](https://github.com/kaguya-dev/FRC-2024-HYDRA) | Team Hydra's FRC robot code (Java) | Código do robô da equipe Hydra (Java) |
 | [ferndoro](https://github.com/kaguya-dev/ferndoro) | Study companion in Rust. Built with Antigravity | Companheiro de estudos em Rust. Feito com Antigravity |
+
 Also / Também: Linux configurators for peripherals, [walker-v2-linux](https://github.com/kaguya-dev/walker-v2-linux) (keyboard) and [mouse-slits-v2-linux](https://github.com/kaguya-dev/mouse-slits-v2-linux) (mouse). *Configuradores Linux para periféricos: teclado e mouse.* <!-- TODO: the instruction for this line was cut off; confirm the wording -->
 
 Web management systems for small businesses (Supabase, Vercel); details omitted for confidentiality.
