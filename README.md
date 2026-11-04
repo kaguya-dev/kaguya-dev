@@ -22,10 +22,9 @@ CNPq undergraduate research fellow at INES.IA (UFBA), working on LLM-based agent
 
 ## Featured projects / Projetos em destaque
 
-<!-- TODO: add the new AI repository as the first row of this table once it exists -->
-
 | Project | English | Português |
 |---|---|---|
+| [stratarena](https://github.com/kaguya-dev/stratarena) | Choose strategies by simulation: battle-royale arenas, LLM agents that write and fuse code in a sandbox, held-out validation. Built with Claude Code | Escolha de estratégias por simulação: arenas battle royale, agentes de LLM que escrevem e fundem código em sandbox, validação em held-out. Feito com Claude Code |
 | [RobotArmESP32](https://github.com/kaguya-dev/RobotArmESP32) | Robotic arm with inverse kinematics and Bluetooth control | Braço robótico com cinemática inversa e Bluetooth |
 | [tetolator](https://github.com/kaguya-dev/tetolator) | Local log of 3D-printed parts with cost calculation. Built with OpenCode and free models | Registro local de peças impressas em 3D com cálculo de custo. Feito com OpenCode e modelos gratuitos |
 | [moonwalk-obr](https://github.com/kaguya-dev/moonwalk-obr) | Robot for the Brazilian Robotics Olympiad | Robô da Olimpíada Brasileira de Robótica |
