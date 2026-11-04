@@ -28,11 +28,9 @@ CNPq undergraduate research fellow at INES.IA (UFBA), working on LLM-based agent
 |---|---|---|
 | [RobotArmESP32](https://github.com/kaguya-dev/RobotArmESP32) | Robotic arm with inverse kinematics and Bluetooth control | Braço robótico com cinemática inversa e Bluetooth |
 | [tetolator](https://github.com/kaguya-dev/tetolator) | Local log of 3D-printed parts with cost calculation. Built with OpenCode and free models | Registro local de peças impressas em 3D com cálculo de custo. Feito com OpenCode e modelos gratuitos |
+| [moonwalk-obr](https://github.com/kaguya-dev/moonwalk-obr) | Robot for the Brazilian Robotics Olympiad | Robô da Olimpíada Brasileira de Robótica |
 | [FRC-2024-HYDRA](https://github.com/kaguya-dev/FRC-2024-HYDRA) | Team Hydra's FRC robot code (Java) | Código do robô da equipe Hydra (Java) |
 | [ferndoro](https://github.com/kaguya-dev/ferndoro) | Study companion in Rust. Built with Antigravity | Companheiro de estudos em Rust. Feito com Antigravity |
-
-<!-- TODO: OBR robot project (Brazilian Robotics Olympiad) goes after tetolator once its repository is public -->
-
 Also / Também: Linux configurators for peripherals, [walker-v2-linux](https://github.com/kaguya-dev/walker-v2-linux) (keyboard) and [mouse-slits-v2-linux](https://github.com/kaguya-dev/mouse-slits-v2-linux) (mouse). *Configuradores Linux para periféricos: teclado e mouse.* <!-- TODO: the instruction for this line was cut off; confirm the wording -->
 
 Web management systems for small businesses (Supabase, Vercel); details omitted for confidentiality.
